@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas.a.sanders@gmail.com
+	name = Tom Sanders
